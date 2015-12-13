@@ -196,3 +196,5 @@ FakesAssemblies/
 *.opt
 Alturadepersonas/Alturadepersonas/Properties/AssemblyInfo.cs
 Alturadepersonas/Alturadepersonas/Alturadepersonas.csproj
+Deonce_enonce/Deonce_enonce.sln
+Deonce_enonce/Deonce_enonce/Deonce_enonce.csproj
